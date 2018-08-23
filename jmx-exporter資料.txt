@@ -1,0 +1,13 @@
+jmx-exporterのインストール
+https://alex.dzyoba.com/blog/jmx-exporter/
+JMXを有効にしたり、インストールしたり
+https://techblog.yahoo.co.jp/architecture/abyss_2/
+javaのアプリケーション起動ツール
+https://docs.oracle.com/javase/jp/1.5.0/tooldocs/solaris/java.html
+jarファイル使いたい人の話
+https://github.com/prometheus/jmx_exporter/issues/194
+
+調べておくもの：
+Zookeeper
+Kafka(Scalaで書かれたメッセージブローカー)
+
